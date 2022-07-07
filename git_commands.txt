@@ -40,3 +40,6 @@ Git Commands
 
 14. Clear
 
+# Recovering the modified file befor commit 
+
+15. git checkout filename

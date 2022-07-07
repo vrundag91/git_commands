@@ -45,4 +45,15 @@ Git Commands
 15. git checkout filename [recovering specific file]
 16. git checkout -f [recovering all the files togather from the folder]
 
+# checking Logs in git
 
+17. git log [list of all the commits]
+18. PRESS q [to exit git log]
+19. git log -p -5 [list of last 5 commits]
+
+# Checking the difference in the files
+
+20. git diff
+
+
+ 

@@ -42,4 +42,7 @@ Git Commands
 
 # Recovering the modified file befor commit 
 
-15. git checkout filename
+15. git checkout filename [recovering specific file]
+16. git checkout -f [recovering all the files togather from the folder]
+
+

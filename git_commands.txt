@@ -1,0 +1,30 @@
+Git Commands 
+
+# Authorization 
+
+1. git config --global user.name Vrunda
+2. git config --global user.email vrunda.g@ahduni.edu.in
+
+# Check the Authentication
+
+3. git config --global user.name
+4. git config --global user.email
+ 
+# Opening the editor 
+
+5. code . [Opening the VS code]
+6. start notepad++ [Opening the notepad++]
+
+# Initializing the Git Repository
+
+7. git init [This will initialize the repository in the current folder and create .git hiddne folder]
+
+# Checking the files (-ls group commands)
+
+8. ls -lart [This shows the hidden files and other files from the directory]
+
+# Checking your files status and saving/managing files
+
+9. git status [show the status of the file -- untracked -- unmodified -- modified -- staged]
+10. git add filename [This will send the file in staged status]
+11. 

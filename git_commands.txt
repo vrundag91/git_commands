@@ -57,5 +57,10 @@ Git Commands
 20. git diff [shows the difference like -- file befor and --file after]
 21. git diff --staged [compare file with thast staged file]
 
+# Removing the files
+
+21. git rm filename [delete the file from the current directory]
+22. git rm --cached [delete the file only from staged status]
+
 
  

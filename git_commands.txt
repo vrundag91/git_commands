@@ -31,6 +31,7 @@ Git Commands
 10.2 git add -A [Adding all files togather]
 11. git commit [This will save the file in repository -- only git commit will open the VI editor to write the commit message]
 12. git commit -m type your message [This will save the file with the given message]
+12.1 git commit -a -m type your message [this will directly commit the file without adding]
 
 # Creating a new file 
 

@@ -53,7 +53,8 @@ Git Commands
 
 # Checking the difference in the files
 
-20. git diff
+20. git diff [shows the difference like -- file befor and --file after]
+21. git diff --staged [compare file with thast staged file]
 
 
  

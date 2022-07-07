@@ -35,4 +35,8 @@ Git Commands
 # Creating a new file 
 
 13. touch filename [This will create new file in the current folder]
-14. 
+
+# Clearing the terminal 
+
+14. Clear
+

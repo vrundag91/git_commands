@@ -63,5 +63,9 @@ Git Commands
 21. git rm filename [delete the file from the current directory]
 22. git rm --cached [delete the file only from staged status]
 
+# Ignoring the File 
+
+23. touch .gitignore [Creating the ignore file]
+
 
  

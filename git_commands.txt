@@ -73,6 +73,8 @@ Git Commands
 25. git branch [checking the branch(es)]
 26. git checkout branchname [switching to the given branch]
 27. git merge branchname [merging the branch with master branch]
+28. git checkout -b new_branch_name [creating a new branch and switching in it immidiatly]
+
 
 
 

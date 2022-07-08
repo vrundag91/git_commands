@@ -67,5 +67,12 @@ Git Commands
 
 23. touch .gitignore [Creating the ignore file]
 
+# Branches in git
+
+24. git branch branchname [creating a new branch]
+25. git branch [checking the branch(es)]
+26. git checkout branchname [switching to the given branch]
+
+
 
  

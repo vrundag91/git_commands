@@ -1,3 +1,4 @@
 mylog.log
 *.log
 /mylog.log
+folder_name/

@@ -75,6 +75,49 @@ Git Commands
 27. git merge branchname [merging the branch with master branch]
 28. git checkout -b new_branch_name [creating a new branch and switching in it immidiatly]
 
+# Push the repository to the remote repository on GitHub
+
+29. git remote add origin github_repo_url [eshtablish the local repo with some short name -- here origin -- getting ready for push]
+30. git remote [Shows the remote name -- here origin]
+31. git remote -v [shows the origin with URL]
+32. git push origin master [push the master branch]
+32.1 git push -u origin master [after this whenever we use push commend it will push the code in master branch]
+
+# Pushing the branches into github
+
+    1. shwitch to the branch on local machine 
+    2. use command 32 to push the specific branch name [consider master as banch name]
+
+# Read-Write Access for private repository
+
+Command number 32 will not work if the repository is created as "Private". so to push our code in private repository, we need to get read-write access. 
+
+    1. go to settings
+    2. go to SSH and GPG keys [providing access to remote repository to get data from local machine]
+    3. generate the SSH key 
+        3.1 select "generating SSH Keys"
+        3.2 select "generating the new SSH key and adding it to the SSH-agent"
+        3.3 copy this command to git bash : $ ssh-keygen -t ed25519 -C "your_email@example.com"
+        3.4 you can see the generated key in git bash
+    4. Deploy the SSH key
+        4.1 run the command : eval "(ssh-agent -s)" [This will provide agent pid as output]
+        4.2 add the ssh using command: ssh-add ~/.ssh/id_ed25519 [replace this with your key file name]
+        4.3 Select "Adding a new SSH keys to your github account"
+        4.4 see the public key : cat ~/.ssh/id_rsa.pub 
+        4.5 copy the public key which you can see with cat command 
+        4.6 Go to SSH and GPG keys and added the copied public key into "Add new SSH key"
+        4.7 Add an appropriate title to the new key
+
+33. git remote set-url origin "paste the link from github from SSH section"
+
+After this procedure we can run command 32 to push our repository.  
+
+# Cloning or Taking a new repository from github
+
+    1. create a new folder in your local machine
+    2. open git bash from that folder
+
+34. git clone "paste the url of the repository"
 
 
 

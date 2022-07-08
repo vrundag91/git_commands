@@ -26,6 +26,7 @@ Git Commands
 # Checking your files status and saving/managing files
 
 9. git status [show the status of the file -- untracked -- unmodified -- modified -- staged]
+9.1 git status -s [show the status in shot representation - the first position shows staged status and second position shows working tree status]
 10. git add filename [This will send the file in staged status]
 10.1 git add . [Adding all files togather]
 10.2 git add -A [Adding all files togather]

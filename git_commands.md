@@ -69,3 +69,28 @@
 `git add -A`
 
 ![Git clone command](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-add-all.PNG)
+
+<hr>
+
+<p>5. git commit - This command will save the file in repository</p>
+
+<table>
+    <tr>
+        <td>Command</td>
+        <td>Description</td>
+    </tr>
+    <tr>
+        <td>git commit</td>
+        <td>This will save the file in repository -- only git commit will open the VI editor to write the commit message</td>
+    </tr>
+    <tr>
+        <td>git commit -m "type your message"</td>
+        <td>This will save the file with the given message</td>
+    </tr>
+    <tr>
+        <td>git commit -a -m "type your message"</td>
+        <td>this will directly commit the file without adding</td>
+    </tr>
+</table>
+
+![Git clone command](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-commit.PNG)

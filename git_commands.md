@@ -6,3 +6,5 @@
 
 ```
 git clone "url://github_repo_url"
+
+![Git clone command](git-commands-screenshot\git-clone.png)

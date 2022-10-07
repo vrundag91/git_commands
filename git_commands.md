@@ -4,7 +4,6 @@
 <p>Demonstration of basic Git command with explanation and screenshot</p>
 <p>1. Git clone - this command helps copying the whole repository (master branch) to your local system.</p>
 
-```
-git clone "url://github_repo_url"
+`git clone "url://github_repo_url"`
 
 ![Git clone command](git-commands-screenshot\git-clone.png)

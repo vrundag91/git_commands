@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <h1> Git Commands </h1>
 
 <ul>
@@ -52,4 +51,3 @@
   </li>
   <li>Cloning or Taking a new repository from github</li>
 </ul>
->>>>>>> 0e6b0d4622ece16c3ada483e1c6fbb6ce54efa18

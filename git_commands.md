@@ -100,7 +100,7 @@
 
 <p>1. Proper open source structure</p>
 
-![Open Source Structure](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/open-sourse-structure.PNG)
+![Open Source Structure](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/open-sourse-structure.png)
 
 <p>2. Proper Readme</p>
 
@@ -108,7 +108,7 @@
 
 <p>3. Adding collaborator</p>
 
-![Adding collaborator](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-collaborator.PNG)
+![Adding collaborator](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/git-collaborator.PNG)
 
 <p>4. Hosting pages using GitHub pages Services.</p>
 

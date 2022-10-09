@@ -1,4 +1,4 @@
-<h1> Git and Github </h1>
+<h1> Assignment - 1 : Git and Github </h1>
 
 <h2> Task 1</h2>
 <p>Demonstration of basic Git command with explanation and screenshot</p>
@@ -96,7 +96,6 @@
 ![Git clone command](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-commit.PNG)
 
 <h2>Task 2</h2>
-<hr>
 
 <p>1. Proper open source structure</p>
 
@@ -123,28 +122,48 @@
 <hr>
 
 <h2>Task 3</h2>
-<hr>
+
 
 <p>1.Create a Issue in your github repository</p>
+
 ![Github Issue](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/git-issue.PNG)
+
 <hr>
 
 <p>2.Raise a pull request</p>
+
+![Raising Pull Request](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/git-merge-request.PNG)
+
 <hr>
 
 <p>3. Merge A pull request</p>
+
+![Merging Pull Request](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/merge-pull-request.PNG)
+
 <hr>
 
 <p>4. Reject a pull request with proper comments</p>
+
+![Reject Pull Request](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/reject-pull-request.PNG)
+
 <hr>
 
 <p>5. Add a Dependabot alerts in your github.(for above cases)</p>
+
+![Dependabot alerts](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/dependabot-alerts.PNG)
+
 <hr>
 
 <p>6. Stash changes</p>
 <hr>
 
 <p>7. Create a release your package</p>
+
+[Release Package v1.0](https://github.com/vrundag91/git_commands/releases/tag/v1.0)
+
 <hr>
 
 <p>8. Setup a Projects Board for your project</p>
+
+![Project Board](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/project-board.PNG)
+

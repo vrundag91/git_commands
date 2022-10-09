@@ -94,3 +94,18 @@
 </table>
 
 ![Git clone command](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-commit.PNG)
+
+<h2>Task 2</h2>
+<hr>
+
+<p>1. Proper open source structure</p>
+![Open Source Structure](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/open-sourse-structure.PNG)
+
+<p>2. Proper Readme</p>
+[Project README.md file](https://github.com/vrundag91/git_commands/blob/master/README.md)
+
+<p>3. Adding collaborator</p>
+![Adding collaborator](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-collaborator.PNG)
+
+<p>4. Hosting pages using GitHub pages Services.</p>
+[GitHub Pages](https://vrundag91.github.io/git_commands/)

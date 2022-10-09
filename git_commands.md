@@ -102,14 +102,49 @@
 
 ![Open Source Structure](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/open-sourse-structure.png)
 
+<hr>
+
 <p>2. Proper Readme</p>
 
 [Project README.md file](https://github.com/vrundag91/git_commands/blob/master/README.md)
+
+<hr>
 
 <p>3. Adding collaborator</p>
 
 ![Adding collaborator](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/git-collaborator.PNG)
 
+<hr>
+
 <p>4. Hosting pages using GitHub pages Services.</p>
 
 [GitHub Pages](https://vrundag91.github.io/git_commands/)
+
+<hr>
+
+<h2>Task 3</h2>
+<hr>
+
+<p>1.Create a Issue in your github repository</p>
+![Github Issue](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/git-issue.PNG)
+<hr>
+
+<p>2.Raise a pull request</p>
+<hr>
+
+<p>3. Merge A pull request</p>
+<hr>
+
+<p>4. Reject a pull request with proper comments</p>
+<hr>
+
+<p>5. Add a Dependabot alerts in your github.(for above cases)</p>
+<hr>
+
+<p>6. Stash changes</p>
+<hr>
+
+<p>7. Create a release your package</p>
+<hr>
+
+<p>8. Setup a Projects Board for your project</p>

@@ -96,7 +96,6 @@
 ![Git clone command](https://github.com/vrundag91/git_commands/blob/master/git-commands-screenshot/git-commit.PNG)
 
 <h2>Task 2</h2>
-<hr>
 
 <p>1. Proper open source structure</p>
 
@@ -123,7 +122,7 @@
 <hr>
 
 <h2>Task 3</h2>
-<hr>
+
 
 <p>1.Create a Issue in your github repository</p>
 

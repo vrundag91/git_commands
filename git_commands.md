@@ -126,16 +126,27 @@
 <hr>
 
 <p>1.Create a Issue in your github repository</p>
+
 ![Github Issue](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/git-issue.PNG)
+
 <hr>
 
 <p>2.Raise a pull request</p>
+
+![Raising Pull Request](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/git-merge-request.PNG)
+
 <hr>
 
 <p>3. Merge A pull request</p>
+
+![Merging Pull Request](https://github.com/vrundag91/git_commands/blob/new-page/git-commands-screenshot/merge-pull-request.PNG)
+
 <hr>
 
 <p>4. Reject a pull request with proper comments</p>
+
+
+
 <hr>
 
 <p>5. Add a Dependabot alerts in your github.(for above cases)</p>

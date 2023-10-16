@@ -1,4 +1,5 @@
 <h1> Assignment - 1 : Git and Github </h1>
+Note: Try to create a similar repository in you r profile
 
 <h2> Task 1</h2>
 <p>Demonstration of basic Git command with explanation and screenshot</p>
